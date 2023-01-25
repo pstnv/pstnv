@@ -20,12 +20,12 @@
   </div>
   <div>
     <h2> Навыки </h2>
-    <span><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_css.png" style="margin-right:15px;height:25px;" alt="HTML5"> CSS3 &nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_javascript.png" style="margin-right:15px;height:25px;" alt="HTML5"> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_bootstrap.png" style="margin-right:15px;height:25px;" alt="HTML5"> Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_figma.png" style="margin-right:15px;height:25px;" alt="HTML5"> Figma &nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_gsap.png" style="margin-right:15px;height:25px;" alt="HTML5"> GSAP3 &nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span style="padding-top: 30px;" markdown="1"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span style="padding-top: 30px;" markdown="1"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_css.png" style="margin-right:15px;height:25px;" alt="HTML5"> CSS3 &nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span style="padding-top: 30px;" markdown="1"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_javascript.png" style="margin-right:15px;height:25px;" alt="HTML5"> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span style="padding-top: 30px;" markdown="1"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_bootstrap.png" style="margin-right:15px;height:25px;" alt="HTML5"> Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span style="padding-top: 30px;" markdown="1"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_figma.png" style="margin-right:15px;height:25px;" alt="HTML5"> Figma &nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span style="padding-top: 30px;" markdown="1"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_gsap.png" style="margin-right:15px;height:25px;" alt="HTML5"> GSAP3 &nbsp;&nbsp;&nbsp;&nbsp;</span>
   </div>
   <div>
     <h2 align="right"> Codewars </h2>
