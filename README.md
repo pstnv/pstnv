@@ -36,7 +36,8 @@
     <h2 align="right"> Codewars </h2>
     <a href="https://www.codewars.com/users/pstnv"> <img  align="right" src="https://www.codewars.com/users/pstnv/badges/large"></a>
   </div>
-  <br>
+  <br/>
+  <br/>
   <div>
     <h2> Контакты </h2>
     <a href="mailto:pstnv@mail.ru"> pstnv@mail.ru </a>
