@@ -20,17 +20,17 @@
   </div>
   <div>
     <h2> Навыки </h2>
-    <div><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"> HTML5 </div>
+    <div><img valign="middle" src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/icon_html.png" style="margin-right:15px;height:25px;" alt="HTML5"> HTML5 </div>
     <br/>
-    <div><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_css.png" style="margin-right:15px;height:25px;" alt="HTML5"> CSS3 </div>
+    <div><img valign="middle" src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/icon_css.png" style="margin-right:15px;height:25px;" alt="HTML5"> CSS3 </div>
     <br/>
-    <div><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_javascript.png" style="margin-right:15px;height:25px;" alt="HTML5"> JavaScript </div>
+    <div><img valign="middle" src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/icon_javascript.png" style="margin-right:15px;height:25px;" alt="HTML5"> JavaScript </div>
     <br/>
-    <div><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_bootstrap.png" style="margin-right:15px;height:25px;" alt="HTML5"> Bootstrap </div>
+    <div><img valign="middle" src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/icon_bootstrap.png" style="margin-right:15px;height:25px;" alt="HTML5"> Bootstrap </div>
     <br/>
-    <div><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_figma.png" style="margin-right:15px;height:25px;" alt="HTML5"> Figma </div>
+    <div><img valign="middle" src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/icon_figma.png" style="margin-right:15px;height:25px;" alt="HTML5"> Figma </div>
     <br/>
-    <div><img valign="middle" src="https://pstnv.github.io/icons/techs/icon_gsap.png" style="margin-right:15px;height:25px;" alt="HTML5"> GSAP3 </div>
+    <div><img valign="middle" src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/icon_gsap.png" style="margin-right:15px;height:25px;" alt="HTML5"> GSAP3 </div>
   </div>
   <div>
     <h2 align="right"> Codewars </h2>
