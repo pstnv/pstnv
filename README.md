@@ -1,7 +1,9 @@
 <section>
   <h1> Ирина Постнова </h1>
-  <p>Я веб-разработчик с опытом создания сайтов и приложений в 1+ год. За это время я изучила основы HTML5, CSS3, JavaScript, Bootstrap 5.0, Figma, GSAP3.</p>
-  <p>В настоящее время я изучаю <strong> React, Node.JS, Redux. </strong></p>
+  <p>Я вечный студент и самоучка, изучаю программирование 1+ год. За это время я ознакомилась с основами HTML5, CSS3, JavaScript, Bootstrap 5.0, Figma, GSAP3.</p>
+  <p>В настоящее время изучаю <strong> React</strong>.</p>
+  <p>На очереди - <strong> Node.JS, Redux. </strong></p>  
+  <p>Есть большое желание получить опыт работы над реальным проектом, развить и упрочить свои знания, быть в команде единомышленников. </strong></p>
   <img src="https://modnica.club/uploads/posts/2021-11/thumbs/1635977296_104-modnica-club-p-graficheskii-minimalizm-113.jpg" alt="Программирование">
 </section>
 
