@@ -2,7 +2,7 @@
   <h1>Постнова Ирина </h1>
   <p>Я вечный студент и самоучка, изучаю программирование 2+ года. За это время я ознакомилась с основами HTML5, CSS3, JavaScript, React, Bootstrap, Figma, AOS, GSAP.</p>
   <p>В настоящее время я изучаю <strong> Node.JS, Express. </strong></p>
-  <img src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/portfolioscreen.png?v=1674721819365" alt="Программирование">
+  <img src="https://modnica.club/uploads/posts/2021-11/thumbs/1635977296_104-modnica-club-p-graficheskii-minimalizm-113.jpg" alt="Программирование">
   <p>Есть большое желание получить опыт работы над реальным проектом, развить и упрочить свои знания, быть в команде единомышленников.</p>
 </section>
 
