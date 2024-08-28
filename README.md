@@ -42,4 +42,3 @@
     <a href="mailto:pstnv@mail.ru"> pstnv@mail.ru </a>
   </div>
 </section>
-
