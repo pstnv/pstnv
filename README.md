@@ -1,7 +1,6 @@
 <section>
   <h1>Постнова Ирина </h1>
-  <p>Я вечный студент и самоучка, изучаю программирование 3+ года. За это время я ознакомилась с основами HTML5, CSS3, Bootstrap, JavaScript, React, Node.js, Express.</p>
-  <p>В настоящее время я изучаю <strong> Node.JS, Express. </strong></p>
+  <p>Я вечный студент и самоучка, работаю бэкенд-разработчиком. Изучила HTML5, CSS3, Bootstrap, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Knex.js.</p>
   <img src="https://modnica.club/uploads/posts/2021-11/thumbs/1635977296_104-modnica-club-p-graficheskii-minimalizm-113.jpg" alt="Программирование">
 </section>
 
